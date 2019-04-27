@@ -5,7 +5,7 @@ The tool is a Deep Learning model and it is based on BERT ([Devlin, 2018](https:
 We train the model on a huge collection of ancient Chinese poem, prose, fiction and other types of literature.
 All of these are punctuated.
 
-On ou test set, the tool achieves an impressive results where the recall and the precision are both over 90%.
+On our test set, the tool achieves an impressive results where the recall and the precision are both over 90%.
 
 We release it on [古詩文斷句](http://seg.shenshen.wiki).
 
